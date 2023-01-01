@@ -38,17 +38,6 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-/**
- * jscolor - JavaScript Color Picker
- *
- * @link    http://jscolor.com
- * @license For open source use: GPLv3
- *          For commercial use: JSColor Commercial License
- * @author  Jan Odvarko - East Desire
- *
- * See usage examples at http://jscolor.com/examples/
- */
-
 /** @license React v16.13.1
  * react-is.production.min.js
  *
